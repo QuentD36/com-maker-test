@@ -31,8 +31,8 @@ const columns = [
 
 export default function CustomDataGrid() {
 
-    const data = []
-    
+    const data = [] /* TO DO */
+
     return (
         <Box sx={{ width: '100%' }}>
         <DataGrid
